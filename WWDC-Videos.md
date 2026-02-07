@@ -13,3 +13,11 @@
 [Discover Concurrency in SwiftUI](https://developer.apple.com/videos/play/wwdc2021/10019/) (WWDC-2021)
 
 [Swift Concurrency: Update a Sample App](https://developer.apple.com/videos/play/wwdc2021/10194/) (WWDC-2021)
+
+[Eliminate Data Races Using Swift Concurrency](https://developer.apple.com/videos/play/wwdc2022/110351/) (WWDC-2022)
+
+[Meet Swift Async Algorithms](https://developer.apple.com/videos/play/wwdc2022/110355/) (WWDC-2022)
+
+[Meet distributed Actors in Swift](https://developer.apple.com/videos/play/wwdc2022/110356/) (WWDC-2022)
+
+[Visualize and Optimize Swift Concurrency](https://developer.apple.com/videos/play/wwdc2022/110350/) (WWDC-2022)
