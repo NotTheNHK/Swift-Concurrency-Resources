@@ -21,3 +21,5 @@
 [Meet distributed Actors in Swift](https://developer.apple.com/videos/play/wwdc2022/110356/) (WWDC-2022)
 
 [Visualize and Optimize Swift Concurrency](https://developer.apple.com/videos/play/wwdc2022/110350/) (WWDC-2022)
+
+[Beyond the Basics of Structured Concurrency](https://developer.apple.com/videos/play/wwdc2023/10170/) (WWDC-2023)
