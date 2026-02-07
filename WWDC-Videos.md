@@ -23,3 +23,5 @@
 [Visualize and Optimize Swift Concurrency](https://developer.apple.com/videos/play/wwdc2022/110350/) (WWDC-2022)
 
 [Beyond the Basics of Structured Concurrency](https://developer.apple.com/videos/play/wwdc2023/10170/) (WWDC-2023)
+
+[Migrate your app to Swift 6](https://developer.apple.com/videos/play/wwdc2024/10169/) (WWDC-2024)
