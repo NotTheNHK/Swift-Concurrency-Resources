@@ -6,7 +6,7 @@
 
 [SE-0300: Continuation](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0300-continuation.md) [Implemented (Swift 5.5)]
 
-[SE-0302: Sendable and @Sendable closures](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0302-concurrent-value-and-concurrent-closures.md) [Implemented (Swift 5.5) / (Swift 5.7)]
+[SE-0302: Sendable and @Sendable Closures](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0302-concurrent-value-and-concurrent-closures.md) [Implemented (Swift 5.5) / (Swift 5.7)]
 
 [SE-0304: Structured Concurrency](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0304-structured-concurrency.md) [Implemented (Swift 5.5)]
 
@@ -44,7 +44,7 @@
 
 [SE-0381: DiscardingTaskGroups](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0381-task-group-discard-results.md) [Implemented (Swift 5.9)]
 
-[SE-0388: Async Stream Factory](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0388-async-stream-factory.md) [Implemented (Swift 5.9)]
+[SE-0388: AsyncStream Factory](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0388-async-stream-factory.md) [Implemented (Swift 5.9)]
 
 [SE-0392: Custom Actor Executors](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0392-custom-actor-executors.md) [Implemented (Swift 5.9)]
 
@@ -72,7 +72,7 @@
 
 [SE-0430: 'sending' Keyword](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0430-transferring-parameters-and-results.md) [Implemented (Swift 6.0)]
 
-[SE-0431: '@isolated(any)' Function Types](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0431-isolated-any-functions.md) [Implemented (Swift 6.0)]
+[SE-0431: '@isolated(any)' Attribute](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0431-isolated-any-functions.md) [Implemented (Swift 6.0)]
 
 [SE-0433: Mutex](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0433-mutex.md) [Implemented (Swift 6.0)]
 
