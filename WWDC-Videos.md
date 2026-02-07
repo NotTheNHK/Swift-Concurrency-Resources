@@ -24,4 +24,10 @@
 
 [Beyond the Basics of Structured Concurrency](https://developer.apple.com/videos/play/wwdc2023/10170/) (WWDC-2023)
 
-[Migrate your app to Swift 6](https://developer.apple.com/videos/play/wwdc2024/10169/) (WWDC-2024)
+[Migrate Your App to Swift 6](https://developer.apple.com/videos/play/wwdc2024/10169/) (WWDC-2024)
+
+[Embracing Swift Concurrency](https://developer.apple.com/videos/play/wwdc2025/268/) (WWDC-2025)
+
+[Explore Concurrency in SwiftUI](https://developer.apple.com/videos/play/wwdc2025/266/) (WWDC-2025)
+
+[Code-along: Elevate an App with Swift Concurrency](https://developer.apple.com/videos/play/wwdc2025/270/) (WWDC-2025)
