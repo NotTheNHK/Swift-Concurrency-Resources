@@ -56,7 +56,7 @@
 
 [SE-0414: Region Based Isolation](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0414-region-based-isolation.md) [Implemented (Swift 6.0)]
 
-[SE-0417: Task Executor Preference](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0417-task-executor-preference.md) [Implemented (Swift 6.0)]
+[SE-0417: Task Executor](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0417-task-executor-preference.md) [Implemented (Swift 6.0)]
 
 [SE-0418: Inferring Sendable for Methods and Key Path Literals](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0418-inferring-sendable-for-methods.md) [Implemented (Swift 6.0)]
 
