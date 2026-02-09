@@ -5,3 +5,5 @@
 - [Migration Guide](https://www.swift.org/migration/documentation/migrationguide/)
 
 - [Distributed Actors](https://developer.apple.com/documentation/distributed)
+
+- [Compiler Diagnostics](https://docs.swift.org/compiler/documentation/diagnostics/diagnostic-groups)
