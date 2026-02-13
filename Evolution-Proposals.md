@@ -1,6 +1,6 @@
 - [SE-0505: Delayed Enqueuing for Executors](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0505-delayed-enqueuing.md) [Active review]
 
-- [SE-0504: Task Cancellation Shields](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0504-task-cancellation-shields.md) [Active review]
+- [SE-0504: Task Cancellation Shields](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0504-task-cancellation-shields.md) [Accepted]
 
 - [SE-0493: Async Defer](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0493-defer-async.md) [Accepted]
 
