@@ -28,8 +28,6 @@
 
 - [SE-0434: Usability of Global-Actor-Isolated Types](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0434-global-actor-isolated-types-usability.md) [Implemented (Swift 6.0)]
 
-- [SE-0433: Mutex](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0433-mutex.md) [Implemented (Swift 6.0)]
-
 - [SE-0431: '@isolated(any)' Attribute](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0431-isolated-any-functions.md) [Implemented (Swift 6.0)]
 
 - [SE-0430: 'sending' Keyword](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0430-transferring-parameters-and-results.md) [Implemented (Swift 6.0)]
