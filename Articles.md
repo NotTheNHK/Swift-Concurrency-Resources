@@ -2,6 +2,8 @@
 
 - [Swift Standard Library Concurrency Chapter](https://developer.apple.com/documentation/swift/concurrency)
 
+- [Swift Concurrency Manifesto](https://gist.github.com/lattner/31ed37682ef1576b16bca1432ea9f782)
+
 - [Migration Guide](https://www.swift.org/migration/documentation/migrationguide/)
 
 - [Distributed Actors](https://developer.apple.com/documentation/distributed)
