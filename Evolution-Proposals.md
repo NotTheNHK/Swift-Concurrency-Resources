@@ -90,6 +90,8 @@
 
 - [SE-0311: Task Locals](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0311-task-locals.md) [Implemented (Swift 5.5)]
 
+- [SE-0310 Async Get](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0310-effectful-readonly-properties.md) [Implemented (Swift 5.5)]
+
 - [SE-0306: Actors](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0306-actors.md) [Implemented (Swift 5.5)]
 
 - [SE-0304: Structured Concurrency](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0304-structured-concurrency.md) [Implemented (Swift 5.5)]
