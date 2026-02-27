@@ -4,6 +4,8 @@
 
 - [SE-0493: Async Defer](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0493-defer-async.md) [Accepted]
 
+- [SE-0478: Default actor isolation typealias](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0478-default-isolation-typealias.md) [Returned for Revision]
+
 - [SE-0472: Starting Tasks Synchronously from Caller Context (Immediate API)](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0472-task-start-synchronously-on-caller-context.md) [Implemented (Swift 6.2)]
 
 - [SE-0471: Improved Custom SerialExecutor Isolation Checking for Concurrency Runtime](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0471-SerialExecutor-isIsolated.md) [Implemented (Swift 6.2)]
@@ -51,6 +53,8 @@
 - [SE-0412: Strict Concurrency for Global Variables](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0412-strict-concurrency-for-global-variables.md) [Implemented (Swift 5.10)]
 
 - [SE-0411: Isolated Default Values](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0411-isolated-default-values.md) [Implemented (Swift 5.10)]
+
+- [SE-0406: Backpressure support for AsyncStream](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0406-async-stream-backpressure.md) [Returned for Revision]
 
 - [SE-0401: Remove Actor Isolation Inference caused by Property Wrappers](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0401-remove-property-wrapper-isolation.md) [Implemented (Swift 5.9)]
 
