@@ -1,3 +1,6 @@
+- [SE-0518: ~Sendable for explicitly marking non-Sendable types](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0518-tilde-sendable.md) [Active review (March 3...16, 2026)
+]
+
 - [SE-0505: Delayed Enqueuing for Executors](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0505-delayed-enqueuing.md) [Returned for Revision]
 
 - [SE-0504: Task Cancellation Shields](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0504-task-cancellation-shields.md) [Accepted]
