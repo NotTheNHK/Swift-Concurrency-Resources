@@ -1,10 +1,10 @@
-- [SE-0518: ~Sendable for explicitly marking non-Sendable types](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0518-tilde-sendable.md) [Accepted]
+- [SE-0518: ~Sendable for explicitly marking non-Sendable types](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0518-tilde-sendable.md) [Implemented (Swift 6.4)]
 
 - [SE-0505: Delayed Enqueuing for Executors](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0505-delayed-enqueuing.md) [Returned for Revision]
 
 - [SE-0504: Task Cancellation Shields](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0504-task-cancellation-shields.md) [Accepted]
 
-- [SE-0493: Async Defer](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0493-defer-async.md) [Accepted]
+- [SE-0493: Async Defer](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0493-defer-async.md) [Implemented (Swift Next)]
 
 - [SE-0478: Default actor isolation typealias](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0478-default-isolation-typealias.md) [Returned for Revision]
 
