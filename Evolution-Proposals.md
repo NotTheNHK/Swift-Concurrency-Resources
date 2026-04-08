@@ -1,3 +1,5 @@
+- [SE-0526: withDeadline](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0526-deadline.md) [Active Review (April 6...20, 2026)]
+
 - [SE-0518: ~Sendable for explicitly marking non-Sendable types](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0518-tilde-sendable.md) [Implemented (Swift 6.4)]
 
 - [SE-0505: Delayed Enqueuing for Executors](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0505-delayed-enqueuing.md) [Returned for Revision]
