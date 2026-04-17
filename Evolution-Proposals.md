@@ -1,4 +1,8 @@
+- [SE-0528: ~Copyable Continuation](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0528-noncopyable-continuation.md) [Active Review (April 15...28, 2026)]
+
 - [SE-0526: withDeadline](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0526-deadline.md) [Active Review (April 6...20, 2026)]
+
+- [SE-0523: Hashable conformance for UnownedTaskExecutor](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0523-hashable-unownedtask-executor.md) [Accepted]
 
 - [SE-0518: ~Sendable for explicitly marking non-Sendable types](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0518-tilde-sendable.md) [Implemented (Swift 6.4)]
 
