@@ -11,3 +11,5 @@
 - [Compiler Diagnostics](https://docs.swift.org/compiler/documentation/diagnostics/diagnostic-groups)
 
 - [Improving the Approachability of Data-Race Safety](https://github.com/swiftlang/swift-evolution/blob/main/visions/approachable-concurrency.md)
+
+- [Async-Algorithms Documentation](https://github.com/apple/swift-async-algorithms/tree/main/Sources/AsyncAlgorithms/AsyncAlgorithms.docc/Guides)
