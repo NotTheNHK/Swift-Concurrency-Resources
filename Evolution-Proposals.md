@@ -1,4 +1,4 @@
-- [SE-533: Reasync](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0533-reasync-macros.md) [Active review (June 1...June 15, 2026)]
+- [SE-533: Reasync](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0533-reasync-macros.md) [Rejected]
 
 - [SE-0530: Async Result Support](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0530-async-result-support.md) [Implemented (Swift 6.4)]
 
