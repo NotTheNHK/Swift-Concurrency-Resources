@@ -1,10 +1,12 @@
+- [SE-0538: Disconnected](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0538-disconnected.md) [Active review (July 17 - July 31, 2026)]
+
 - [SE-0533: Reasync](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0533-reasync-macros.md) [Rejected]
 
 - [SE-0530: Async Result Support](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0530-async-result-support.md) [Implemented (Swift 6.4)]
 
 - [SE-0528: ~Copyable Continuation](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0528-noncopyable-continuation.md) [Implemented (Swift 6.4)]
 
-- [SE-0526: withDeadline](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0526-deadline.md) [Active review (June 28th...July 12th, 2026)]
+- [SE-0526: withDeadline](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0526-deadline.md) [Accepted with modifications]
 
 - [SE-0523: Hashable conformance for UnownedTaskExecutor](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0523-hashable-unownedtask-executor.md) [Implemented (Swift 6.4)]
 
