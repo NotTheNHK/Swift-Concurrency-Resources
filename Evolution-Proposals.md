@@ -1,4 +1,4 @@
-- [SE-0538: Disconnected](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0538-disconnected.md) [Active review (July 17 - July 31, 2026)]
+- [SE-0538: Disconnected](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0538-disconnected.md) [Accepted]
 
 - [SE-0533: Reasync](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0533-reasync-macros.md) [Rejected]
 
