@@ -18,7 +18,7 @@
 
 - [SE-0493: Async Defer](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0493-defer-async.md) [Implemented (Swift 6.4)]
 
-- [SE-0478: Default actor isolation typealias](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0478-default-isolation-typealias.md) [Returned for Revision]
+- [SE-0478: Default actor isolation typealias](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0478-default-isolation-typealias.md) [Accepted]
 
 - [SE-0472: Starting Tasks Synchronously from Caller Context (Immediate API)](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0472-task-start-synchronously-on-caller-context.md) [Implemented (Swift 6.2)]
 
