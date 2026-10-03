@@ -1,3 +1,7 @@
+- [SE-0553: Task Identity](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0553-task-identity.md) [Active review (September 23...October 7, 2026)]
+
+- [SE-0548: resignRemoteID for remote distributed actor references](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0548-resign-remote-id.md) [Accepted]
+
 - [SE-0538: Disconnected](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0538-disconnected.md) [Accepted]
 
 - [SE-0533: Reasync](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0533-reasync-macros.md) [Rejected]
